@@ -2,8 +2,16 @@ from discord_webhook import DiscordWebhook
 import subprocess
 import re
 import os
+import configparser
 
-WEBHOOK_URL = os.getenv('webhook_url')
+def load_properties(file_path):
+    config = configparser.ConfigParser()
+    config.read(file_path, encoding='utf-8')
+    return config
+
+config = load_properties('webhooker.properties')
+WEBHOOK_URL = config['webhook']['url']
+LAUNCHER = config['webhook']['launcher']
 
 def parse_log(log_file):
     match = re.search(r'\[\d{2}:\d{2}:\d{2}\] \[Server thread/INFO\] \[minecraft/MinecraftServer\]: <(.+)> (.+)', log_file)
@@ -44,4 +52,4 @@ def run_command(cmd):
     rc = process.poll()
     return rc
 
-run_command(['cmd', '/c', os.getenv('launcher')])
+run_command(['cmd', '/c', LAUNCHER])
