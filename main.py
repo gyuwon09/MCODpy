@@ -9,7 +9,7 @@ def load_properties(file_path):
     config.read(file_path, encoding='utf-8')
     return config
 
-config = load_properties('webhooker.properties')
+config = load_properties('.properties')
 WEBHOOK_URL = config['webhook']['url']
 LAUNCHER = config['webhook']['launcher']
 
