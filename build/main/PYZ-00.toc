@@ -1,4 +1,4 @@
-('c:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+('C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
  'webhooker\\build\\main\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
@@ -27,6 +27,186 @@
    'PYMODULE'),
   ('_threading_local',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('aiohttp',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\__init__.py',
+   'PYMODULE'),
+  ('aiohttp.abc',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\abc.py',
+   'PYMODULE'),
+  ('aiohttp.base_protocol',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\base_protocol.py',
+   'PYMODULE'),
+  ('aiohttp.client',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\client.py',
+   'PYMODULE'),
+  ('aiohttp.client_exceptions',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\client_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.client_proto',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\client_proto.py',
+   'PYMODULE'),
+  ('aiohttp.client_reqrep',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\client_reqrep.py',
+   'PYMODULE'),
+  ('aiohttp.client_ws',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\client_ws.py',
+   'PYMODULE'),
+  ('aiohttp.compression_utils',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\compression_utils.py',
+   'PYMODULE'),
+  ('aiohttp.connector',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\connector.py',
+   'PYMODULE'),
+  ('aiohttp.cookiejar',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\cookiejar.py',
+   'PYMODULE'),
+  ('aiohttp.formdata',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\formdata.py',
+   'PYMODULE'),
+  ('aiohttp.hdrs',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\hdrs.py',
+   'PYMODULE'),
+  ('aiohttp.helpers',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\helpers.py',
+   'PYMODULE'),
+  ('aiohttp.http',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\http.py',
+   'PYMODULE'),
+  ('aiohttp.http_exceptions',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\http_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.http_parser',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\http_parser.py',
+   'PYMODULE'),
+  ('aiohttp.http_websocket',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\http_websocket.py',
+   'PYMODULE'),
+  ('aiohttp.http_writer',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\http_writer.py',
+   'PYMODULE'),
+  ('aiohttp.locks',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\locks.py',
+   'PYMODULE'),
+  ('aiohttp.log',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\log.py',
+   'PYMODULE'),
+  ('aiohttp.multipart',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\multipart.py',
+   'PYMODULE'),
+  ('aiohttp.payload',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\payload.py',
+   'PYMODULE'),
+  ('aiohttp.payload_streamer',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\payload_streamer.py',
+   'PYMODULE'),
+  ('aiohttp.resolver',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\resolver.py',
+   'PYMODULE'),
+  ('aiohttp.streams',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\streams.py',
+   'PYMODULE'),
+  ('aiohttp.tcp_helpers',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\tcp_helpers.py',
+   'PYMODULE'),
+  ('aiohttp.tracing',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\tracing.py',
+   'PYMODULE'),
+  ('aiohttp.typedefs',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\typedefs.py',
+   'PYMODULE'),
+  ('aiohttp.web',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web.py',
+   'PYMODULE'),
+  ('aiohttp.web_app',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web_app.py',
+   'PYMODULE'),
+  ('aiohttp.web_exceptions',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.web_fileresponse',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web_fileresponse.py',
+   'PYMODULE'),
+  ('aiohttp.web_log',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web_log.py',
+   'PYMODULE'),
+  ('aiohttp.web_middlewares',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web_middlewares.py',
+   'PYMODULE'),
+  ('aiohttp.web_protocol',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web_protocol.py',
+   'PYMODULE'),
+  ('aiohttp.web_request',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web_request.py',
+   'PYMODULE'),
+  ('aiohttp.web_response',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web_response.py',
+   'PYMODULE'),
+  ('aiohttp.web_routedef',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web_routedef.py',
+   'PYMODULE'),
+  ('aiohttp.web_runner',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web_runner.py',
+   'PYMODULE'),
+  ('aiohttp.web_server',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web_server.py',
+   'PYMODULE'),
+  ('aiohttp.web_urldispatcher',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web_urldispatcher.py',
+   'PYMODULE'),
+  ('aiohttp.web_ws',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\web_ws.py',
+   'PYMODULE'),
+  ('aiohttp.worker',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiohttp\\worker.py',
+   'PYMODULE'),
+  ('aiosignal',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\aiosignal\\__init__.py',
    'PYMODULE'),
   ('argparse',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
@@ -130,6 +310,58 @@
   ('asyncio.windows_utils',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_utils.py',
    'PYMODULE'),
+  ('attr',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\attr\\__init__.py',
+   'PYMODULE'),
+  ('attr._cmp',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\attr\\_cmp.py',
+   'PYMODULE'),
+  ('attr._compat',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\attr\\_compat.py',
+   'PYMODULE'),
+  ('attr._config',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\attr\\_config.py',
+   'PYMODULE'),
+  ('attr._funcs',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\attr\\_funcs.py',
+   'PYMODULE'),
+  ('attr._make',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\attr\\_make.py',
+   'PYMODULE'),
+  ('attr._next_gen',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\attr\\_next_gen.py',
+   'PYMODULE'),
+  ('attr._version_info',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\attr\\_version_info.py',
+   'PYMODULE'),
+  ('attr.converters',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\attr\\converters.py',
+   'PYMODULE'),
+  ('attr.exceptions',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\attr\\exceptions.py',
+   'PYMODULE'),
+  ('attr.filters',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\attr\\filters.py',
+   'PYMODULE'),
+  ('attr.setters',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\attr\\setters.py',
+   'PYMODULE'),
+  ('attr.validators',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\attr\\validators.py',
+   'PYMODULE'),
   ('base64',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
    'PYMODULE'),
@@ -182,6 +414,9 @@
    'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
    'webhooker\\env\\Lib\\site-packages\\charset_normalizer\\version.py',
    'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\colorsys.py',
+   'PYMODULE'),
   ('concurrent',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\__init__.py',
    'PYMODULE'),
@@ -215,8 +450,26 @@
   ('ctypes',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\__init__.py',
    'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
   ('ctypes._endian',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\util.py',
    'PYMODULE'),
   ('dataclasses',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
@@ -229,6 +482,463 @@
    'PYMODULE'),
   ('dis',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('discord',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\__init__.py',
+   'PYMODULE'),
+  ('discord._types',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\_types.py',
+   'PYMODULE'),
+  ('discord.abc',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\abc.py',
+   'PYMODULE'),
+  ('discord.activity',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\activity.py',
+   'PYMODULE'),
+  ('discord.app_commands',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\app_commands\\__init__.py',
+   'PYMODULE'),
+  ('discord.app_commands.checks',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\app_commands\\checks.py',
+   'PYMODULE'),
+  ('discord.app_commands.commands',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\app_commands\\commands.py',
+   'PYMODULE'),
+  ('discord.app_commands.errors',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\app_commands\\errors.py',
+   'PYMODULE'),
+  ('discord.app_commands.models',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\app_commands\\models.py',
+   'PYMODULE'),
+  ('discord.app_commands.namespace',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\app_commands\\namespace.py',
+   'PYMODULE'),
+  ('discord.app_commands.transformers',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\app_commands\\transformers.py',
+   'PYMODULE'),
+  ('discord.app_commands.translator',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\app_commands\\translator.py',
+   'PYMODULE'),
+  ('discord.app_commands.tree',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\app_commands\\tree.py',
+   'PYMODULE'),
+  ('discord.appinfo',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\appinfo.py',
+   'PYMODULE'),
+  ('discord.asset',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\asset.py',
+   'PYMODULE'),
+  ('discord.audit_logs',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\audit_logs.py',
+   'PYMODULE'),
+  ('discord.automod',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\automod.py',
+   'PYMODULE'),
+  ('discord.backoff',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\backoff.py',
+   'PYMODULE'),
+  ('discord.channel',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\channel.py',
+   'PYMODULE'),
+  ('discord.client',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\client.py',
+   'PYMODULE'),
+  ('discord.colour',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\colour.py',
+   'PYMODULE'),
+  ('discord.components',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\components.py',
+   'PYMODULE'),
+  ('discord.context_managers',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\context_managers.py',
+   'PYMODULE'),
+  ('discord.embeds',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\embeds.py',
+   'PYMODULE'),
+  ('discord.emoji',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\emoji.py',
+   'PYMODULE'),
+  ('discord.enums',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\enums.py',
+   'PYMODULE'),
+  ('discord.errors',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\errors.py',
+   'PYMODULE'),
+  ('discord.ext', '-', 'PYMODULE'),
+  ('discord.ext.commands',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\__init__.py',
+   'PYMODULE'),
+  ('discord.ext.commands._types',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\_types.py',
+   'PYMODULE'),
+  ('discord.ext.commands.bot',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\bot.py',
+   'PYMODULE'),
+  ('discord.ext.commands.cog',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\cog.py',
+   'PYMODULE'),
+  ('discord.ext.commands.context',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\context.py',
+   'PYMODULE'),
+  ('discord.ext.commands.converter',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\converter.py',
+   'PYMODULE'),
+  ('discord.ext.commands.cooldowns',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\cooldowns.py',
+   'PYMODULE'),
+  ('discord.ext.commands.core',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\core.py',
+   'PYMODULE'),
+  ('discord.ext.commands.errors',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\errors.py',
+   'PYMODULE'),
+  ('discord.ext.commands.flags',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\flags.py',
+   'PYMODULE'),
+  ('discord.ext.commands.help',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\help.py',
+   'PYMODULE'),
+  ('discord.ext.commands.hybrid',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\hybrid.py',
+   'PYMODULE'),
+  ('discord.ext.commands.parameters',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\parameters.py',
+   'PYMODULE'),
+  ('discord.ext.commands.view',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ext\\commands\\view.py',
+   'PYMODULE'),
+  ('discord.file',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\file.py',
+   'PYMODULE'),
+  ('discord.flags',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\flags.py',
+   'PYMODULE'),
+  ('discord.gateway',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\gateway.py',
+   'PYMODULE'),
+  ('discord.guild',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\guild.py',
+   'PYMODULE'),
+  ('discord.http',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\http.py',
+   'PYMODULE'),
+  ('discord.integrations',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\integrations.py',
+   'PYMODULE'),
+  ('discord.interactions',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\interactions.py',
+   'PYMODULE'),
+  ('discord.invite',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\invite.py',
+   'PYMODULE'),
+  ('discord.member',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\member.py',
+   'PYMODULE'),
+  ('discord.mentions',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\mentions.py',
+   'PYMODULE'),
+  ('discord.message',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\message.py',
+   'PYMODULE'),
+  ('discord.mixins',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\mixins.py',
+   'PYMODULE'),
+  ('discord.object',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\object.py',
+   'PYMODULE'),
+  ('discord.oggparse',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\oggparse.py',
+   'PYMODULE'),
+  ('discord.opus',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\opus.py',
+   'PYMODULE'),
+  ('discord.partial_emoji',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\partial_emoji.py',
+   'PYMODULE'),
+  ('discord.permissions',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\permissions.py',
+   'PYMODULE'),
+  ('discord.player',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\player.py',
+   'PYMODULE'),
+  ('discord.raw_models',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\raw_models.py',
+   'PYMODULE'),
+  ('discord.reaction',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\reaction.py',
+   'PYMODULE'),
+  ('discord.role',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\role.py',
+   'PYMODULE'),
+  ('discord.scheduled_event',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\scheduled_event.py',
+   'PYMODULE'),
+  ('discord.shard',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\shard.py',
+   'PYMODULE'),
+  ('discord.stage_instance',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\stage_instance.py',
+   'PYMODULE'),
+  ('discord.state',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\state.py',
+   'PYMODULE'),
+  ('discord.sticker',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\sticker.py',
+   'PYMODULE'),
+  ('discord.team',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\team.py',
+   'PYMODULE'),
+  ('discord.template',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\template.py',
+   'PYMODULE'),
+  ('discord.threads',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\threads.py',
+   'PYMODULE'),
+  ('discord.types',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\__init__.py',
+   'PYMODULE'),
+  ('discord.types.activity',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\activity.py',
+   'PYMODULE'),
+  ('discord.types.appinfo',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\appinfo.py',
+   'PYMODULE'),
+  ('discord.types.audit_log',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\audit_log.py',
+   'PYMODULE'),
+  ('discord.types.automod',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\automod.py',
+   'PYMODULE'),
+  ('discord.types.channel',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\channel.py',
+   'PYMODULE'),
+  ('discord.types.command',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\command.py',
+   'PYMODULE'),
+  ('discord.types.components',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\components.py',
+   'PYMODULE'),
+  ('discord.types.embed',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\embed.py',
+   'PYMODULE'),
+  ('discord.types.emoji',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\emoji.py',
+   'PYMODULE'),
+  ('discord.types.gateway',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\gateway.py',
+   'PYMODULE'),
+  ('discord.types.guild',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\guild.py',
+   'PYMODULE'),
+  ('discord.types.integration',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\integration.py',
+   'PYMODULE'),
+  ('discord.types.interactions',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\interactions.py',
+   'PYMODULE'),
+  ('discord.types.invite',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\invite.py',
+   'PYMODULE'),
+  ('discord.types.member',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\member.py',
+   'PYMODULE'),
+  ('discord.types.message',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\message.py',
+   'PYMODULE'),
+  ('discord.types.role',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\role.py',
+   'PYMODULE'),
+  ('discord.types.scheduled_event',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\scheduled_event.py',
+   'PYMODULE'),
+  ('discord.types.snowflake',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\snowflake.py',
+   'PYMODULE'),
+  ('discord.types.sticker',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\sticker.py',
+   'PYMODULE'),
+  ('discord.types.team',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\team.py',
+   'PYMODULE'),
+  ('discord.types.template',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\template.py',
+   'PYMODULE'),
+  ('discord.types.threads',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\threads.py',
+   'PYMODULE'),
+  ('discord.types.user',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\user.py',
+   'PYMODULE'),
+  ('discord.types.voice',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\voice.py',
+   'PYMODULE'),
+  ('discord.types.webhook',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\webhook.py',
+   'PYMODULE'),
+  ('discord.types.welcome_screen',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\welcome_screen.py',
+   'PYMODULE'),
+  ('discord.types.widget',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\types\\widget.py',
+   'PYMODULE'),
+  ('discord.ui',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ui\\__init__.py',
+   'PYMODULE'),
+  ('discord.ui.button',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ui\\button.py',
+   'PYMODULE'),
+  ('discord.ui.item',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ui\\item.py',
+   'PYMODULE'),
+  ('discord.ui.modal',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ui\\modal.py',
+   'PYMODULE'),
+  ('discord.ui.select',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ui\\select.py',
+   'PYMODULE'),
+  ('discord.ui.text_input',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ui\\text_input.py',
+   'PYMODULE'),
+  ('discord.ui.view',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\ui\\view.py',
+   'PYMODULE'),
+  ('discord.user',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\user.py',
+   'PYMODULE'),
+  ('discord.utils',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\utils.py',
+   'PYMODULE'),
+  ('discord.voice_client',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\voice_client.py',
+   'PYMODULE'),
+  ('discord.webhook',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\webhook\\__init__.py',
+   'PYMODULE'),
+  ('discord.webhook.async_',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\webhook\\async_.py',
+   'PYMODULE'),
+  ('discord.webhook.sync',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\webhook\\sync.py',
+   'PYMODULE'),
+  ('discord.welcome_screen',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\welcome_screen.py',
+   'PYMODULE'),
+  ('discord.widget',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\discord\\widget.py',
    'PYMODULE'),
   ('discord_webhook',
    'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
@@ -312,6 +1022,10 @@
   ('fractions',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
    'PYMODULE'),
+  ('frozenlist',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\frozenlist\\__init__.py',
+   'PYMODULE'),
   ('ftplib',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ftplib.py',
    'PYMODULE'),
@@ -332,6 +1046,12 @@
    'PYMODULE'),
   ('hmac',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\entities.py',
    'PYMODULE'),
   ('http',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\__init__.py',
@@ -462,6 +1182,22 @@
   ('mimetypes',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\mimetypes.py',
    'PYMODULE'),
+  ('multidict',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\multidict\\__init__.py',
+   'PYMODULE'),
+  ('multidict._abc',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\multidict\\_abc.py',
+   'PYMODULE'),
+  ('multidict._compat',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\multidict\\_compat.py',
+   'PYMODULE'),
+  ('multidict._multidict_py',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\multidict\\_multidict_py.py',
+   'PYMODULE'),
   ('multiprocessing',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
@@ -551,6 +1287,9 @@
    'PYMODULE'),
   ('pkgutil',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
    'PYMODULE'),
   ('pprint',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
@@ -643,6 +1382,9 @@
    'PYMODULE'),
   ('selectors',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shlex.py',
    'PYMODULE'),
   ('shutil',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
@@ -839,6 +1581,9 @@
    'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
    'webhooker\\env\\Lib\\site-packages\\urllib3\\util\\wait.py',
    'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\uuid.py',
+   'PYMODULE'),
   ('xml',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\__init__.py',
    'PYMODULE'),
@@ -871,6 +1616,22 @@
    'PYMODULE'),
   ('xmlrpc.client',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('yarl',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\yarl\\__init__.py',
+   'PYMODULE'),
+  ('yarl._quoting',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\yarl\\_quoting.py',
+   'PYMODULE'),
+  ('yarl._quoting_py',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\yarl\\_quoting_py.py',
+   'PYMODULE'),
+  ('yarl._url',
+   'C:\\gyuwon\\personal\\personal\\Python\\discord.py\\minecraft chat '
+   'webhooker\\env\\Lib\\site-packages\\yarl\\_url.py',
    'PYMODULE'),
   ('zipfile',
    'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
