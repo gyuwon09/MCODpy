@@ -4,6 +4,8 @@ import re
 import configparser
 import discord
 import threading
+import sys
+import time
 
 #function for load properties from .properties 
 def load_properties(file_path):
@@ -12,25 +14,38 @@ def load_properties(file_path):
     return config
 
 #load properties
-config = load_properties('.properties')
+try:
+    config = load_properties('.properties')
+except:
+    print("properties file not found")
+    time.sleep(5)
+    sys.exit()
+
 WEBHOOK_URL = config['webhook']['url']
 LAUNCHER = config['webhook']['launcher']
 CHANNEL_ID = int(config['webhook']['channel_id'])
+message_color = config['webhook']['message_color']
 
 #extract player chatting from server log
 def parse_log(log_file):
-    match = re.search(r'\[\d{2}:\d{2}:\d{2}\] \[Server thread/INFO\] \[minecraft/MinecraftServer\]: <(.+)> (.+)', log_file)
+    match = re.search(r'\[\d{2}:\d{2}:\d{2}\] \[Server thread/INFO\]: <(.+)> (.+)', log_file)
     if match:
         user_id = match.group(1)
         message = match.group(2)
+        print(user_id,":",message)
         return user_id, message
     return None, None
 
 def send_to_discord(user_id, message):
     webhook = DiscordWebhook(url=WEBHOOK_URL)
-    
-    embed = DiscordEmbed(title=user_id, color='03b2f8')
-    embed.add_embed_field(name='',value=message, inline=False)
+    try:
+        embed = DiscordEmbed(title=user_id, color=message_color)
+        embed.add_embed_field(name='',value=message, inline=False)
+    except:
+        print("\n[        Error suspect        ]\ncheck 'message_color' varibles in '.properties' file\n")
+        embed = DiscordEmbed(title=user_id, color="FF0000")
+        embed.add_embed_field(name='',value=message, inline=False)
+        
     
     webhook.add_embed(embed)
     response = webhook.execute()
@@ -71,16 +86,18 @@ def send_command_to_process(process, command):
     process.stdin.write((command + '\n').encode('utf-8'))
     process.stdin.flush()
 
-
 process = run_command(['cmd', '/c', LAUNCHER])
 
 class MyClient(discord.Client):
     async def on_ready(self):
-        print(f'message recognition activated')
+        print(f'[     message recognition activated     ]')
 
     async def on_message(self, message):
+        if message.author == self.user or message.author.bot or message.webhook_id:
+            return
+        
         if message.channel.id == CHANNEL_ID:
-            print(message.content)
+            print("discord message : ",message.content)
             send_command_to_process(process, f'tellraw @a "<{message.author}> {message.content}"')
 
 intents = discord.Intents.default()
