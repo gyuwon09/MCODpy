@@ -15,7 +15,7 @@ def load_properties(file_path):
 
 #load properties
 try:
-    config = load_properties('.properties')
+    config = load_properties('properties.properties')
 except:
     print("properties file not found")
     time.sleep(5)
