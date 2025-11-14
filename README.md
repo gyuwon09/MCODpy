@@ -11,4 +11,6 @@
 3. If you want to start your Minecraft server, run 'chatting interlocker.exe' instead of the server launcher.
 
 [warning]
-this program tested just basic Minecraft server. If you using mod server, you should change 'launcher' variable value in 'properties'. If it doesn't work, please enter the command to run your modded Minecraft server launcher in the 'launcher' variable value within the '.properties' file.
+This program has only been tested with a basic (vanilla) Minecraft server.
+If you are using a modded server, you must change the launcher variable in the .properties file.
+If your server still doesn’t start correctly, enter the exact command you normally use to run your modded Minecraft server launcher into the launcher variable inside the .properties file.
